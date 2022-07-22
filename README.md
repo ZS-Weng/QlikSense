@@ -1,4 +1,6 @@
 # QlikSense
 Collection of QlikSense App Demo
 
-1. This contains Qlik Sense Demo Apps
+This contains Qlik Sense Demo Apps:
+
+1. QlikSense Navigation.qvf contains demo on making Qlik Sense dashboards more user friendly and easy to navigate
